@@ -40,7 +40,7 @@ footer {
 }
 #refreshButton {
   display: block;
-  margin: 20px auto; /* Center the button horizontally */
+  margin: 20px auto;
   padding: 15px 30px;
   font-size: 18px;
   background-color: #4ecca3;
